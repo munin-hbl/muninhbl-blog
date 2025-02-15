@@ -2,23 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MuninHBL</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on MuninHBL</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First blogpost using the NetworkChuck method</title>
-      <link>http://localhost:1313/posts/first-blogpost-using-the-networkchuck-method/</link>
+      <link>https://example.org/posts/first-blogpost-using-the-networkchuck-method/</link>
       <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/first-blogpost-using-the-networkchuck-method/</guid>
-      <description>&lt;p&gt;I am writing this as im setting up this site. The hope for me is that it can be an outlet for me to post what i have created, not only to show off, but also so that i might use it to keep me productive. I am following NetworkChuck&amp;rsquo;s guide to setup a blog using obsidian and HUGO to interperate the markdown files.
-![[Pasted image 20250215215029.jpg]]&lt;/p&gt;</description>
-      <content>&lt;p&gt;I am writing this as im setting up this site. The hope for me is that it can be an outlet for me to post what i have created, not only to show off, but also so that i might use it to keep me productive. I am following NetworkChuck&amp;rsquo;s guide to setup a blog using obsidian and HUGO to interperate the markdown files.
-![[Pasted image 20250215215029.jpg]]&lt;/p&gt;
-</content>
+      <guid>https://example.org/posts/first-blogpost-using-the-networkchuck-method/</guid>
+      <description>&lt;p&gt;I am writing this as im setting up this site. The hope for me is that it can be an outlet for me to post what i have created, not only to show off, but also so that i might use it to keep me productive. I am following NetworkChuck&amp;rsquo;s guide to setup a blog using obsidian and HUGO to interperate the markdown files.&#xA;![[Pasted image 20250215215029.jpg]]&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
