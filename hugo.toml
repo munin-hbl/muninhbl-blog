@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://mhbl.io'
 languageCode = 'en-us'
 title = 'MuninHBL'
 theme = "poison"
